@@ -1,0 +1,10 @@
+var nombre = "Andres";
+var edad = 40;
+var frutas = ["Banano", "Mango", "Sandía"];
+var precios = [2000, 6000, 13000];
+var deTodito = ["Febrero", 50000, "Diciembre", 1200000, 8000];
+console.log(nombre);
+console.log(edad);
+console.log(frutas);
+console.log(precios);
+console.log(deTodito);
